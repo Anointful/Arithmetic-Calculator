@@ -1,2 +1,3 @@
 # Arithmetic-Calculator
-https://github.com/Anointful/Arithmetic-Calculator
+
+https://anointful.github.io/Arithmetic-Calculator/
